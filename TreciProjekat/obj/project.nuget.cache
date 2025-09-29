@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "l5Mt/R5kg4I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xXx\\OneDrive\\Desktop\\fakultet\\SISTEMSKO PROGRAMIRANJE\\Projekat\\TreciProjekat\\TreciProjekat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xXx\\.nuget\\packages\\system.io.pipelines\\9.0.9\\system.io.pipelines.9.0.9.nupkg.sha512",
+    "C:\\Users\\xXx\\.nuget\\packages\\system.reactive\\6.0.2\\system.reactive.6.0.2.nupkg.sha512",
+    "C:\\Users\\xXx\\.nuget\\packages\\system.text.encodings.web\\9.0.9\\system.text.encodings.web.9.0.9.nupkg.sha512",
+    "C:\\Users\\xXx\\.nuget\\packages\\system.text.json\\9.0.9\\system.text.json.9.0.9.nupkg.sha512",
+    "C:\\Users\\xXx\\.nuget\\packages\\vadersharp2\\3.3.2.1\\vadersharp2.3.3.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
