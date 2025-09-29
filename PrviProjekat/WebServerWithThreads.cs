@@ -8,10 +8,13 @@ using System.Diagnostics;
 public class WebServerWithThreads
 {
     private readonly HttpListener listenerObj = new HttpListener();
+    
     private readonly string apiBaseUrl = "http://api.weatherapi.com/v1/forecast.json";
     private readonly string apiKey = "73cc3100896e493d868111304252509";
+    
     private readonly Dictionary<string, string> _cache = new Dictionary<string, string>();
     private static readonly object cacheLock = new object();
+    
     private static readonly HttpClient httpKlijent = new HttpClient();
     private static readonly object logLock = new object();
 
@@ -27,7 +30,6 @@ public class WebServerWithThreads
 
     public void Start()
     {
-        // Pokreće server u zasebnoj niti, glavna nit nije blokirana
         Thread listenerThread = new Thread(() =>
         {
             listenerObj.Start();
@@ -40,7 +42,6 @@ public class WebServerWithThreads
                 {
                     var context = listenerObj.GetContext();
 
-                    // Za svaki zahtev kreiramo novu nit
                     Thread requestThread = new Thread(() =>
                     {
                         try
@@ -100,7 +101,6 @@ public class WebServerWithThreads
                     string query = request.Url?.Query.Replace("?", "&") ?? string.Empty;
                     string apiUrl = $"{apiBaseUrl}?key={apiKey}{query}";
 
-                    // Blokiramo async pozive unutar ove niti
                     var apiResponse = httpKlijent.GetAsync(apiUrl).GetAwaiter().GetResult();
                     result = apiResponse.Content.ReadAsStringAsync().GetAwaiter().GetResult();
 
