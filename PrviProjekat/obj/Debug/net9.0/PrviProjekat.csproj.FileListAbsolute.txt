@@ -1,0 +1,28 @@
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\bin\Debug\net9.0\PrviProjekat.exe
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\bin\Debug\net9.0\PrviProjekat.deps.json
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\bin\Debug\net9.0\PrviProjekat.runtimeconfig.json
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\bin\Debug\net9.0\PrviProjekat.dll
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\bin\Debug\net9.0\PrviProjekat.pdb
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\obj\Debug\net9.0\PrviProjekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\obj\Debug\net9.0\PrviProjekat.AssemblyInfoInputs.cache
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\obj\Debug\net9.0\PrviProjekat.AssemblyInfo.cs
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\obj\Debug\net9.0\PrviProjekat.csproj.CoreCompileInputs.cache
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\obj\Debug\net9.0\PrviProjekat.dll
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\obj\Debug\net9.0\refint\PrviProjekat.dll
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\obj\Debug\net9.0\PrviProjekat.pdb
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\obj\Debug\net9.0\PrviProjekat.genruntimeconfig.cache
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\Prvi projekat\obj\Debug\net9.0\ref\PrviProjekat.dll
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\bin\Debug\net9.0\PrviProjekat.exe
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\bin\Debug\net9.0\PrviProjekat.deps.json
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\bin\Debug\net9.0\PrviProjekat.runtimeconfig.json
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\bin\Debug\net9.0\PrviProjekat.dll
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\bin\Debug\net9.0\PrviProjekat.pdb
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\obj\Debug\net9.0\PrviProjekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\obj\Debug\net9.0\PrviProjekat.AssemblyInfoInputs.cache
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\obj\Debug\net9.0\PrviProjekat.AssemblyInfo.cs
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\obj\Debug\net9.0\PrviProjekat.csproj.CoreCompileInputs.cache
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\obj\Debug\net9.0\PrviProjekat.dll
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\obj\Debug\net9.0\refint\PrviProjekat.dll
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\obj\Debug\net9.0\PrviProjekat.pdb
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\obj\Debug\net9.0\PrviProjekat.genruntimeconfig.cache
+C:\Users\xXx\OneDrive\Desktop\fakultet\SISTEMSKO PROGRAMIRANJE\Projekat\PrviProjekat\obj\Debug\net9.0\ref\PrviProjekat.dll
